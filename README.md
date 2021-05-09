@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Majo Mendoza 🌎
+👋 Hi, I’m Majo Mendoza 🌎
 
 - 👀 I’m interested in dataviz and data analysis 📈, energy systems models💡.
 - 🌱 I’m currently learning python🐍.
